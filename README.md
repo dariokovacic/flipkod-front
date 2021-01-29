@@ -1,3 +1,3 @@
-# flipkod-front
+# frontend job test - flipkod
 
-Vrijeme izrade: 5h 30min
+Production time: 5h 30min
